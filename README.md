@@ -7,7 +7,10 @@
 - When there is variation in data, more timestamps / data points are given.
 - For two consecutive timestamps the usage value is close, this shows that the graph plotted against time and capacity usage will be smooth for most of the time.
 - There are a few sudden peaks in the data, but they will add very little to the total cost, because the width of the peak(duration of the peak) is too low compared to the total time.
-- 
+
+![](images/img1.png)
+<br>
+
 
 ## Missing timestamps
 - It could be difficult or expensive to monitor the compute usage for every second, so the only data points where the trend of the curve is changing is given.
@@ -32,5 +35,7 @@ Error function
 - By using Fmin search optimization function this one dimension function can be optimized
 - Lowest value of error is observed to be 4034.1363 at x = 5697.000000000012
 Where x is the value of prepaid units
+
+![](images/img2.png)
 
 
