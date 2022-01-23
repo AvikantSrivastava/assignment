@@ -20,6 +20,8 @@
 
  ## Optimization approach
  
+ [Link to numerical calulcation](https://github.com/AvikantSrivastava/assignment/blob/main/assignment.ipynb)
+ 
  x : cost of prepaid compute units
 I : number of compute units being used at a given instance
 
